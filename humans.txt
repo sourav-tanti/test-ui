@@ -1,0 +1,18 @@
+# ghost.com/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Designer/Developer: Sourav Tanti
+    https://www.ghost.com
+    @souravt
+    desk@ghsot.com
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Javascript
+    Normalize.css, Sass, Pear
